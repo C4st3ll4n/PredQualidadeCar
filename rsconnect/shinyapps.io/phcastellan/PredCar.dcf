@@ -1,0 +1,12 @@
+name: PredCar
+title: PredCar
+username:
+account: phcastellan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 809732
+bundleId: 1961124
+url: https://phcastellan.shinyapps.io/PredCar/
+when: 1553415532.68554
+asMultiple: FALSE
+asStatic: FALSE
